@@ -7,4 +7,5 @@ https://jupyter.org/
 
 Requires 
 PyTorch >= 2.0
+<br>
 Numpy >= 1.20.0
